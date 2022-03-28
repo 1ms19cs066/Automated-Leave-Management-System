@@ -4,20 +4,30 @@ Completely Based on C Data Structures
 
 Used Data Structures like Stacks , Queues, Linked Lists
 
+Implemented Authentication for secure login
+
 Project implemented in 2 Views:
   1. Admin
   2. User/Customer
 
-Implemented Authentication for secure login
+Output : 
 
-User View:
-  1. Food-menu 
-  2. Added to cart
-  3. Place Order
+I. User View:
+    1. Order
+    2. View Cart
+    3. Proceed to Checkout
+    0. Back
   
-Admin View:
-  1.Add items to menu
-  2.Change the item's price
-  3.
+II. Admin View:
+    1.Edit Menu
+        a. Add item
+        b. Edit item
+        c. View Menu
+        d. Back
+    2.Orders
+        a. Serve Order
+        b. View Orders
+        c. Back
+    3.Back
 
 
